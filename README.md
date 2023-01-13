@@ -15,5 +15,5 @@ This assignment is about the Ontology in Ambient Intelligence to determine about
 Below shows the architecture of the proposed ontology. It comprises of TBox with top classes, classes with their sub-classes, some sub-classes having their sub-classes, and so on.
 
 <p align="center">
-  <img width="1000" height="500" src="https://github.com/ankurkohli007/Smart_Book_Store_Ontology/blob/7c2795630599a03cf25b4a1904ab8948f999cb7c/image1.png">
+  <img width="500" height="800" src="https://github.com/ankurkohli007/Smart_Book_Store_Ontology/blob/7c2795630599a03cf25b4a1904ab8948f999cb7c/image1.png">
 </p>
