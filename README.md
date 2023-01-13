@@ -2,3 +2,10 @@ This is the assignment proposed during the course [Ambient Intelligence](https:/
 
 ## Abstarct ##
 This assignment is about the Ontology in Ambient Intelligence to determine about the Ambient Intelligence application, in the Ambient Intelligence (AmI) world. The goal in this case is that to focused on environ- mental intelligence rather than "robots." Also, focused on people and how they can interact with the environment and/or take benefit from it which includes sensors in the AmI. In this ontology, TBox and ABox are defined, Object and Data properties were also included and used in the TBox, individual and property assertions taken in consideration which were added to ABox, and last but not the least SWRL rules also invloved in this ontology preparation.
+
+## Requirements of the assignments ##
+
+1. At least 3 top Classes are required in the TBox (i.e., immediately below Thing).
+2. At least 4 Object Properties and 4 Data Properties should be created and used in the TBox.
+3. At least 6 Individual Assertions and 6 Property Assertions should be added in the ABox.
+4. Add at least two SWRL rules to try how rules work.
