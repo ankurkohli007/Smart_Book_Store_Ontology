@@ -9,3 +9,11 @@ This assignment is about the Ontology in Ambient Intelligence to determine about
 2. At least 4 Object Properties and 4 Data Properties should be created and used in the TBox.
 3. At least 6 Individual Assertions and 6 Property Assertions should be added in the ABox.
 4. Add at least two SWRL rules to try how rules work.
+
+## Architecture of the proposed ontology ##
+
+Below shows the architecture of the proposed ontology. It comprises of TBox with top classes, classes with their sub-classes, some sub-classes having their sub-classes, and so on.
+
+<p align="center">
+  <img width="1000" height="500" src="https://github.com/ankurkohli007/Smart_Book_Store_Ontology/blob/7c2795630599a03cf25b4a1904ab8948f999cb7c/image1.png">
+</p>
