@@ -41,3 +41,7 @@ Also, ABox which describes the object and data properties of the proposed ontolo
 <p align="center">
   <img width="900" height="500" src="https://github.com/ankurkohli007/Smart_Book_Store_Ontology/blob/9d19bda5f906c299fd9fb556ad5e4219a8d6f586/image2.png">
 </p>
+
+## SWRL Rule ##
+
+For avoiding an huge enhancement of the ontology **SWRL** rule is implemented in this proposed ontology. After considering a real scenario, it is possible to has a discount of 10% on books, if a person can buy more than two. For instance, _**Person(?p)**_ ∧ _**hasBoughtBook(?p, ?nb)**_ ∧ _**swrlb:greaterThan(?nb, 2)**_ -> _**hasDiscount(?p, 0.1)**_.
