@@ -15,11 +15,11 @@ This report introduces _Protégé 5_ for creating OWL ontology as well as variou
 
 As aforementioned all rooms in the store or library were interconnected with each other. In the starting at the entrance all the rooms were closed. Here, all the rooms having different colours of book shelves to categorize different books. Also, at the main entrance PIR sensor and Stereo Camera sensor were installed. Therefore, buyer will imitates the purchasing process from the entrance of the store or library. As mentioned above the PIR sensor and Stereo Camera will monitor the entrance of the buyers. The camera will grabs the picture of the person who entered the store or library. This will not only helps in security measures but also helps in guiding the person which room is vacant and which room is containing which type of books and in which shelf is is placed. Once near it, the person selects the place and will open the door by switching the button on the side; in this way also the selected room’s door is opened, drawing a path to the desired chamber. In the room the buyer can browse book and buy them according to its need. This activity will be done by reading the bar-code from their cellphone.
 
-## How to install _Protégé 5_ ##
+### Installation of _Protégé 5_ ###
 
+To install _Protégé 5_ follow the steps on the given [link](https://protege.stanford.edu/).
 
-
-
+_Protégé 5_ software is available for Windows OS X, macOS X, and aslo for Linux. When you will visit the aforementioned link the system will automatically recognize the Operating System you are using and in which you want to install Protégé.
 
 ## Requirements of the assignments ##
 
