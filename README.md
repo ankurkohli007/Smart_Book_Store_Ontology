@@ -21,5 +21,5 @@ Below shows the architecture of the proposed ontology. It comprises of TBox with
 Also, ABox which describes the object and data properties of the proposed ontology. 
 
 <p align="center">
-  <img width="500" height="800" src="https://github.com/ankurkohli007/Smart_Book_Store_Ontology/blob/9d19bda5f906c299fd9fb556ad5e4219a8d6f586/image2.png">
+  <img width="900" height="500" src="https://github.com/ankurkohli007/Smart_Book_Store_Ontology/blob/9d19bda5f906c299fd9fb556ad5e4219a8d6f586/image2.png">
 </p>
